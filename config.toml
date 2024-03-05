@@ -32,7 +32,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "z"
+  name = "agiamb"
   email = "z@agiamb.com"
   link = "https://agiambient.com"
 
@@ -77,7 +77,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "qicz's Space"
+  title = "AGI Ambient"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "AGI,Ambient,agi,ambient,人工智能,通用人工智能,通用场景人工智能"
   # website images for Open Graph and Twitter Cards
