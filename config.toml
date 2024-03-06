@@ -32,7 +32,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "agiamb"
+  name = "z"
   email = "z@agiamb.com"
   link = "https://agiambient.com"
 
@@ -106,13 +106,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = ''
+    custom = 'agiambient.com'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
     copyright = true
     #  whether to show the author
-    author = true
+    author = false
     # Site creation time
     since = 2024
     # ICP info only in China (HTML format is supported)

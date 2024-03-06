@@ -1,6 +1,6 @@
 +++
 title = "AI时代，我们的诗和远方在哪？"
-date = 2024-03-07T08:02:33+08:00
+date = 2024-03-06T23:02:33+08:00
 draft = false
 tags = ["ai","agi"]
 categories = ["ai"]
