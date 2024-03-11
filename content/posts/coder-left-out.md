@@ -1,6 +1,6 @@
 +++
 title = "程序员会成为AI时代的弃儿吗？"
-date = 2024-03-12T08:00:33+08:00
+date = 2024-03-11T21:53:33+08:00
 draft = false
 tags = ["ai","agi"]
 categories = ["ai"]
